@@ -1,3 +1,4 @@
+![Ajith Kumar Banner](assets/devops-git-banner-ajith.png)
 # 👋 Hi, I'm Ajith Kumar
 
 ## 🚀 About Me
