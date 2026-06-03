@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajith Kumar
 
-<!--
-**Ajithkumar1705/Ajithkumar1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- ☁️ Cloud & DevOps Engineer
+- 🌩️ Azure AZ-104 Certified
+- 🐧 Linux | AWS | Azure | GitHub Actions
+- 🔄 Interested in Cloud, DevOps & Automation
+- 🌱 Currently learning Terraform & Kubernetes
+- 💼 Open to Cloud & DevOps Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+Azure | AWS | Linux | Git | GitHub Actions | Docker | Terraform | Networking
+
+## 📜 Certifications
+
+- AZ-104 Azure Administrator
+- GH-200 GitHub Certification
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/ajith-kumar-e
+- Email: ajithkumar.e1705@gmail.com
