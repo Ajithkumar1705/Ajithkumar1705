@@ -18,6 +18,7 @@ Azure | AWS | Linux | Git | GitHub Actions | Docker | Terraform | Networking
 
 - AZ-104 Azure Administrator
 - GH-200 GitHub Certification
+- AWS Certified Cloud Practitioner (CLF-C02)
 
 ## 📫 Connect With Me
 
