@@ -60,6 +60,7 @@ Azure VMs | VNet | Entra ID | AKS | ACR | Key Vault
 - GH-200 GitHub Certification
 - AZ-104 Azure Administrator
 - AZ-400 DevOps Engineer Expert
+- CCAO-F: Claude Certified Associate - Foundations
 
 ## 📫 Connect With Me
 
